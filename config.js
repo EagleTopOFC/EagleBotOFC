@@ -4,14 +4,14 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['5212411347465', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467'],
-  ['5212411719888'],
+  ['523511617811', '𝙾𝙵𝙲 EAGLE', true],
+  ['523541370478'],
+  ['523541269536'],
   ['5212411453522'],
 ]
 
 global.mods = [] 
-global.prems = ['5212411347465'], 
+global.prems = ['523511617811'], 
 global.prems = [] 
 global.APIs = { 
   amel: 'https://melcanz.com',
@@ -66,8 +66,8 @@ global.APIKeys = {
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '☘️𝐓𝐇𝐄_𝐌𝐈𝐊𝐔_𝐁𝐎𝐓📚'
-global.author = '🌱𝐎𝐅𝐂 𝐘𝐎𝐕𝐀𝐍𝐈📔'
+global.packname = '☘️𝐓𝐇𝐄_EAGLE_BOT📚'
+global.author = '🌱𝐎𝐅𝐂 EAGLE📔'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -77,7 +77,7 @@ global.author = '🌱𝐎𝐅𝐂 𝐘𝐎𝐕𝐀𝐍𝐈📔'
 global.vs = '1.0.30'
 global.version = vs
 
-global.gt = '☘️𝐓𝐇𝐄_𝐌𝐈𝐊𝐔_𝐁𝐎𝐓📚'
+global.gt = '☘️𝐓𝐇𝐄_EAGLE_BOT📚'
 global.hadesbot = gt
 
 global.yt = 'https://youtu.be/aPu9wQi-z8U'
@@ -129,8 +129,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '📚𝐎𝐅𝐂 𝐘𝐎𝐕𝐀𝐍𝐈|𝐓𝐇𝐄_𝐌𝐈𝐊𝐔_𝐁𝐎𝐓🍀'
-global.igfg = '📚𝐓𝐇𝐄_𝐌𝐈𝐊𝐔_𝐁𝐎𝐓☘️'
+global.wm = '📚𝐎𝐅𝐂 EAGLE|𝐓𝐇𝐄_EAGLE_𝐁𝐎𝐓🍀'
+global.igfg = '📚𝐓𝐇𝐄_EAGLE_𝐁𝐎𝐓☘️'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.imagen1 = fs.readFileSync('./src/Menu2.jpg')
