@@ -16,20 +16,20 @@ const { name, author } = require(join(__dirname, './package.json')) // https://w
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('MIKU_BOT_MD\nYOVANI\nMIKU_BOT_MD', {
+say('EAGLE_BOT_MD\nEAGLE\nEAGLE_BOT_MD', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
 })
-say(`EL MEJOR BOT DE WHATSAPP 2022 LA MEJOR CALIDAD Y SERVICIO DE WHATSAPP HADES_BOT
+say(`EL MEJOR BOT DE WHATSAPP 2022 LA MEJOR CALIDAD Y SERVICIO DE WHATSAPP EAGLE_BOT
 |< ================================================== >|
 [•]-SERVIDOR : PRIVADO
-[•]-BOT VERSION : 10.8.9
+[•]-BOT VERSION : 1.0.0
 [•]-ESTADO : ACTIVO
-[•]-Owner : YOVANI
+[•]-Owner : EAGLE
 [•]-GRACIAS POR USAR LE BOT DE HADES 
 [•]-SUBSCRIBETE LA CANAL YOUTUBE 
-[•]-CERRADO EL BOT YOVANI
+[•]-CERRADO EL BOT EAGLE
 |< ================================================== >|`, {
   font: 'console',
   align: 'center',
