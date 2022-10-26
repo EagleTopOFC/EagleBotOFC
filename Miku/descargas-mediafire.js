@@ -7,14 +7,14 @@ let res = await mediafiredl(args[0])
 let { url, url2, filename, ext, aploud, filesize, filesizeH } = res
 let caption = `
 ╭─────────────┈⊷
-│◦➛☘️✨𝐌𝐈𝐊𝐔_𝐁𝐎𝐓💫
+│◦➛☘️✨EAGL_BOT💫
 ╰┬────────────┈⊷
 ┌┤✨𝐌𝐄𝐃𝐈𝐀𝐅𝐈𝐑𝐄📚
 │◦➛📔ᩭ✎${eg}
 │◦➛🍀ᩭ✎𝙽𝙾𝙼𝙱𝚁𝙴: ${filename}
 │◦➛🌆ᩭ✎𝙿𝙴𝚂𝙾: ${filesizeH}
 │◦➛🌴ᩭ✎𝚃𝙸𝙿𝙾: ${ext}
-│◦➛🌱𝐎𝐅𝐂 𝐘𝐎𝐕𝐀𝐍𝐈☘️ 
+│◦➛🌱𝐎𝐅𝐂 EAGLE☘️ 
 ╰────────────┈⊷`.trim()
 conn.reply(m.chat, caption, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
