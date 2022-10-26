@@ -45,10 +45,10 @@ if (/^18|19|20|22|23|24|25|26|28|30$/i.test(m.text) && chat.simi && !chat.isBann
     conn.reply(m.chat,`ya eres un adult@✨`, m)           
 }
 if (/^quién es tu creador|Bot quién te creo|cómo se llama tu creador$/i.test(m.text) && chat.simi && !chat.isBanned) { 
-    conn.reply(m.chat,`❤️ mi creador es Yovani,¿lo necesitas para algo si quieres te puedo comunicar con mi creador🙃?`, m)           
+    conn.reply(m.chat,`❤️ mi creador es Eagle,¿lo necesitas para algo si quieres te puedo comunicar con mi creador🙃?`, m)           
 }
 if (/^pásame su número|envíame su número$/i.test(m.text) && chat.simi && !chat.isBanned) { 
-    conn.reply(m.chat,`😊✨ Bueno está bien pero te informo solo le hables para el tema de mi instalación\nWa.me/5212411719888 `, m)           
+    conn.reply(m.chat,`😊✨ Bueno está bien pero te informo solo le hables para el tema de mi instalación\nWa.me/523511617811 `, m)           
 }
 if (/^quieres ser mi novia|quieres ser mi novio$/i.test(m.text) && chat.simi && !chat.isBanned) { 
     conn.reply(m.chat,`😥yo si quiero pero no soy real 😭`, m)           
